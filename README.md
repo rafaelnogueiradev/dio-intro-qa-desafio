@@ -2,9 +2,9 @@
 O dia-a-dia de um QA: A prática de testes manuais funcionais
 
 ## Informações do projeto
-1. Você pode acessar o projeto completo em um unico arquivo PDF na pasta [documentos](./documentos/) acessando o arquivo [DIO - Introdução a Qualidade de Software (Desafio)](./documentos/DIO%20-%20Introdução%20a%20Qualidade%20de%20Software%20(Desafio).pdf).
+1. Você pode acessar todos os documentos no formato PDF na pasta [documentos](./documentos/).
 
-2. Você pode acessar a [User Story 1](./documentos/user_story1.pdf) ou a [User Story 2](./documentos/user_story2.pdf) na pasta [documentos](./documentos/).
+2. Você pode acessar o projeto completo em um unico arquivo PDF na pasta [documentos](./documentos/) acessando o arquivo [DIO - Introdução a Qualidade de Software (Desafio)](./documentos/DIO%20-%20Introdução%20a%20Qualidade%20de%20Software%20(Desafio).pdf).
 
 3. Você pode acessar as imagens do projeto na pasta [imagens](./imagens/).
 
